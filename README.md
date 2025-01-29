@@ -28,7 +28,7 @@ This is a **Simple Wallet Management API** built with **Laravel 11** and **PHP 8
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repo/wallet-management-api.git
+git clone https://github.com/Danish1042/wallet-management-api
 cd wallet-management-api
 ```
 
